@@ -25,7 +25,7 @@
 [![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat&logo=tiktok)](https://www.tiktok.com/@tirraaamisuuu)
 [![Steam](https://img.shields.io/badge/-Steam-darkblue?style=flat&logo=steam)](https://steamcommunity.com/id/tiraaamisuuu/)  
 [![Spotify](https://img.shields.io/badge/-Spotify-green?style=flat&logo=spotify)](https://open.spotify.com/user/31hjhlr2vpv5g5omjx7phgmipt6e)  
-[![Discord](https://img.shields.io/badge/-Discord-gray?style=flat&logo=discord)](discord.com/users/1242418442263597077)  
+[![Discord](https://img.shields.io/badge/-Discord-gray?style=flat&logo=discord)](discord.gg/users/1242418442263597077)  
 [![Reddit](https://img.shields.io/badge/-Reddit-orange?style=flat&logo=reddit)](https://www.reddit.com/user/AlfieCorthine/)
 
 ---
