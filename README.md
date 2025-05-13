@@ -1,7 +1,3 @@
-[![tiraaamisuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiraaamisuuu)](https://github.com/anuraghazra/github-readme-stats) 
-------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiraaamisuuu)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center">Hey, I'm Tiramisu</h1>
 
 ### 🧠 Who am I?  
@@ -19,8 +15,8 @@
 ---
 
 ### 🔥 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+[![tiraaamisuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiraaamisuuu)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiraaamisuuu)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
