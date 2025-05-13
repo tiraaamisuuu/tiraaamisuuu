@@ -33,11 +33,3 @@
 ### 📸 Screenshots  
 _Example preview of projects:_  
 ![Screenshot 2025-05-12 at 9 30 47 pm](https://github.com/user-attachments/assets/f80b08b0-1b92-4400-a4eb-e55080d52779)
-
----
-
-![Screenshot 2025-05-13 at 2 42 51 pm](https://github.com/user-attachments/assets/9d411ef8-802d-4fa4-8570-f580f43e77a8)
-
-Above ^^ AK-47 | Blue Laminate FT, Stickers: Ninjas in Pyjamas | Katowice 2015, 3DMAX | Katowice 2015, **Fnatic (Holo) | Katowice 2014**, Counter Logic Gaming | Katowice 2015
----
-AKA my Pride and Joy
