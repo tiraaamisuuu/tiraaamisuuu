@@ -34,7 +34,3 @@
 _Example preview of projects:_  
 ![AgriData UI Mockup](image-url)  
 ![Delphi Learning Code Preview](image-url)  
-
----
-
-![Test]([https://ibb.co/cK9hpg4k](https://freeimage.host/i/3SRPcs1))
