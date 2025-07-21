@@ -4,7 +4,6 @@
 - **Introverted nerd** obsessed with Cyber Security, UI/UX, and League of Legends  
 - Currently deep in **UI/UX development**, **animation**, and **front-end design**  
 - **Future cyber security enthusiast**—breaking things just to understand them  
-- If not coding, or watching **Death Note** then I'm probably reading **Dostoyevsky**
 
 ---
 
