@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Alfie Corthine</h1>
 
 ### Who am I?  
-- **Introverted nerd** obsessed with Cyber Security, UI/UX, and League of Legends  
+- **An Idiot** obsessed with Cyber Security, UI/UX, and League of Legends  
 - Currently deep in **UI/UX development**, **animation**, and **front-end design**  
 - **Future cyber security enthusiast**—breaking things just to understand them  
 
