@@ -1,4 +1,4 @@
-I try my best. Isn't that all you ask for?
+I try my best. Isn't that all you can ask for?
 
 
 ### Connect with Me  
