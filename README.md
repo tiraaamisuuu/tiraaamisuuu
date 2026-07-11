@@ -12,7 +12,7 @@ I'm always looking to push my understanding further, whether that's through buil
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tiraaamisuuu&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiraaamisuuu&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiraaamisuuu&layout=compact&theme=tokyonight&hide_border=false)
 
 ### Connect with me
 
