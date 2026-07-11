@@ -12,8 +12,6 @@ I'm always looking to push my understanding further, whether that's through buil
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tiraaamisuuu&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiraaamisuuu&layout=compact&theme=tokyonight&hide_border=false)
-
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfred%20Corthine-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-corthine-aa5851317)
