@@ -6,7 +6,7 @@ I enjoy working close to the problem itself — designing algorithms, optimising
 
 I'm always looking to push my understanding further, whether that's through building something new, breaking down a difficult technical problem, or learning how systems work beneath the surface.
 
-> `127.0.0.1` is still my favourite website.
+> `127.0.0.1` is my favourite website.
 
 ### Connect with me
 
