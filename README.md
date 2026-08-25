@@ -1,10 +1,12 @@
 # Alfie Corthine
 
-I'm a **Computer Science Student at Royal Holloway, University of London**, focused on building ambitious software projects across **C++, artificial intelligence, cybersecurity and systems programming**.
+I'm an **incoming Computer Science student at Royal Holloway, University of London**, interested in **systems programming, artificial intelligence, cybersecurity and high-performance software**.
 
-I enjoy working close to the problem itself — designing algorithms, optimising performance and turning complex ideas into working software. My projects include a **chess engine written from scratch in C++**, game development, backend systems and experiments in AI and high-performance computing.
+I enjoy working close to the problem itself — designing algorithms, measuring performance and turning complex ideas into working software. My main project is a **chess engine written from scratch in C++**, incorporating search optimisation, NNUE experimentation and performance benchmarking.
 
-I'm always looking to push my understanding further, whether that's through building something new, breaking down a difficult technical problem, or learning how systems work beneath the surface.
+Alongside that, I work on **self-hosted software, backend systems, cybersecurity and game development**, with a particular interest in understanding how systems behave beneath the surface and how they can be made faster, safer and more reliable.
+
+I'm always looking to push my understanding further, whether that's through building something new, breaking down a difficult technical problem, or learning how complex systems work from the inside out.
 
 > `127.0.0.1` is my favourite website.
 
